@@ -18,6 +18,7 @@ conda info
 
 # create new env
 conda create -n ENV_NAME python=3.9
+conda env create --file FILE # no need to name when created from .yaml
 conda env create --name NAME --file FILE # from .yaml file
 
 # activate/deactivate env
