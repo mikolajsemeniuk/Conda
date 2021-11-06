@@ -5,6 +5,8 @@ conda -V
 conda --version
 where python
 
+dir C:\Users\{username}\miniconda3\envs
+
 # update
 conda update python
 conda update conda
