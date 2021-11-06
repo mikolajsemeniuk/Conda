@@ -3,6 +3,7 @@
 # version
 conda -V
 conda --version
+where python
 
 # update
 conda update python
