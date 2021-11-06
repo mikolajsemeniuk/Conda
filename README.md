@@ -43,4 +43,7 @@ conda update -n ENV_NAME scipy # update package in certain env
 conda env remove -n my # remove env
 conda remove -n myenv scipy # remove package in certain env
 conda remove scipy # remove package in active env
+
+# exec python files
+python myfile.py # REMEMBER TO USE CONDA PROMPT
 ```
