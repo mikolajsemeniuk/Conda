@@ -1,4 +1,5 @@
 # Conda
+No need to install `python` when `conda` installed.
 ```sh
 # version
 conda -V
