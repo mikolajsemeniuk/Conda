@@ -7,6 +7,9 @@ where python
 
 dir C:\Users\{username}\miniconda3\envs
 
+nvcc -V
+nvcc --version
+
 # update
 conda update python
 conda update conda
